@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hello-demo": {
+      "command": "C:\\path\\to\\your\\mcp-test-server.exe",
+      "args": []
+    }
+  }
+}

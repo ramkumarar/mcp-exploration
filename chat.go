@@ -10,8 +10,8 @@ import (
 func main() {
 	// Configuration - update these with your actual values
 	orchestrator := NewOrchestrator(
-		"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",     // Gemini Flash endpoint
-		"AIzaSyAJzKzkQOVpzZjqRUEl7OwtxI8RCnzWrgI",               // Replace with your token
+		"",     // Gemini Flash endpoint
+		"",               // Replace with your token
 		"./mcp-test-server.exe",    // Path to your MCP server
 	)
 
